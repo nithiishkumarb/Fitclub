@@ -41,25 +41,51 @@ Choose from our flexible membership plans designed to suit your lifestyle and fi
 
 ### Desktop View
 
+#### Home
 ![Screenshot 2024-04-22 153721](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/912141b2-6c49-4e3c-bc57-750a04ba66a2)
 
+#### Programs
 ![Screenshot 2024-04-22 153734](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/23a17083-ab38-4d7c-87b1-75ecc0538e6e)
 
+#### Why us
 ![Screenshot 2024-04-22 153743](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/e6587379-72e6-4a8b-9a42-beec0657b2fe)
 
+#### Reasons
 ![Screenshot 2024-04-22 153758](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/1b96163e-402f-4be8-afdd-66b40416d689)
 
+#### Testimonials
 ![Screenshot 2024-04-22 153811](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/eca04151-fc1b-4d66-88d7-c473f8a790e8)
 
+#### Contact us
 ![Screenshot 2024-04-22 153827](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/cd48a9f4-1efb-4747-878c-02aa4016a51e)
 
 ### Mobile View
-![Home](screenshots/mobile-home.png)
-![Programs](screenshots/mobile-programs.png)
-![Why Us](screenshots/mobile-why-us.png)
-![Reasons](screenshots/mobile-reasons.png)
-![Testimonials](screenshots/mobile-testimonials.png)
-![Contact Form](screenshots/mobile-contact-form.png)
+
+#### Home
+
+![Screenshot 2024-04-22 153938](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/d709a0b9-4475-48a5-9dae-966042be5bef)
+
+#### Programs 
+
+![Screenshot 2024-04-22 154012](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/49ff8ad2-8553-443a-baf9-7e272ebf83cc)
+
+#### why us
+
+![Screenshot 2024-04-22 154027](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/6353bc89-e14f-49c9-ba57-7abafd21d371)
+
+#### Plans
+
+![Screenshot 2024-04-22 154041](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/1702474f-730f-4ae2-9f8d-f5a4c5e8c13d)
+
+![Screenshot 2024-04-22 154049](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/ba907a15-c14c-4455-9bc3-b1c56d710337)
+
+#### Testimonials
+
+![Screenshot 2024-04-22 154100](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/2907c0a7-0b71-4d73-b2a8-86f7d08e2268)
+
+#### Contact
+
+![Screenshot 2024-04-22 154109](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/e550b0c2-ce0e-4066-8ad8-6dcd8ed9cc85)
 
 ## Getting Started
 
