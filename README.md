@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+![Screenshot 2024-04-22 153758](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/f2c6001b-a8f6-4341-88e6-434fcf33b5a6)# FitnessFlow
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+FitnessFlow is a responsive static website for a gym membership service built with React.js. It provides comprehensive information about the gym, its programs, benefits, reasons to join, and testimonials from satisfied customers. The website also includes a contact form powered by EmailJS for users to inquire about joining.
 
-## Available Scripts
+## About FitnessFlow Gym
 
-In the project directory, you can run:
+At FitnessFlow, we believe in promoting a healthy and active lifestyle through personalized fitness programs and top-notch facilities. Our state-of-the-art gym is equipped with the latest exercise equipment and amenities to help you achieve your fitness goals effectively.
 
-### `npm start`
+### Gym Facilities
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Fitness Equipment:** We offer a wide range of cardio machines, weight training equipment, and functional training areas.
+- **Group Exercise Classes:** Our gym hosts various group exercise classes led by certified instructors, including yoga, pilates, spin, and HIIT.
+- **Personal Training:** Our experienced personal trainers provide one-on-one coaching and customized workout plans tailored to your individual needs.
+- **Locker Rooms:** Clean and spacious locker rooms with shower facilities for your convenience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Membership Plans
 
-### `npm test`
+Choose from our flexible membership plans designed to suit your lifestyle and fitness goals:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. **Basic Membership:** Access to gym facilities during regular hours.
+2. **Premium Membership:** Includes access to all gym facilities plus unlimited group exercise classes.
+3. **Elite Membership:** Our most comprehensive plan with additional perks such as priority booking for personal training sessions and discounted rates on gym merchandise.
 
-### `npm run build`
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Home:** Landing page with an overview of the gym and its offerings.
+- **Programs:** Detailed information about the fitness programs offered by the gym.
+- **Why Us:** Highlights the benefits of joining the gym.
+- **Reasons:** Lists compelling reasons to choose FitnessFlow for fitness goals.
+- **Testimonials:** Reviews and testimonials from satisfied members.
+- **Contact Form:** Allows users to contact the gym for membership inquiries.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Technologies Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **React.js:** JavaScript library for building user interfaces.
+- **HTML5:** Standard markup language for creating web pages.
+- **CSS3:** Cascading Style Sheets for styling the website (with media queries for responsiveness).
+- **EmailJS:** API service used for sending emails from JavaScript.
 
-### `npm run eject`
+## Screenshots
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Desktop View
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Home].[Screenshot 2024-04-22 153721](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/912141b2-6c49-4e3c-bc57-750a04ba66a2)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Programs].[Screenshot 2024-04-22 153734](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/23a17083-ab38-4d7c-87b1-75ecc0538e6e)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Why Us].[Screenshot 2024-04-22 153743](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/e6587379-72e6-4a8b-9a42-beec0657b2fe)
 
-## Learn More
+![Testimonials].[Screenshot 2024-04-22 153811](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/eca04151-fc1b-4d66-88d7-c473f8a790e8)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Contact Form].[Screenshot 2024-04-22 153827](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/cd48a9f4-1efb-4747-878c-02aa4016a51e)
+)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Mobile View
+![Home](screenshots/mobile-home.png)
+![Programs](screenshots/mobile-programs.png)
+![Why Us](screenshots/mobile-why-us.png)
+![Reasons](screenshots/mobile-reasons.png)
+![Testimonials](screenshots/mobile-testimonials.png)
+![Contact Form](screenshots/mobile-contact-form.png)
 
-### Code Splitting
+## Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+To run the website locally, follow these steps:
 
-### Analyzing the Bundle Size
+1. **Clone the repository:**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+   ```bash
+   git clone https://github.com/yourusername/fitness-flow.git```
+2. **Navigate to the project directory:**
 
-### Making a Progressive Web App
+   ``cd fitness-flow``
+   
+4. **Install dependencies:**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+   ``npm install``
 
-### Advanced Configuration
+5. ** ``Open http://localhost:3000`` in your web browser**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contributing
 
-### Deployment
+Contributions are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request on GitHub.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## License
 
-### `npm run build` fails to minify
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgments
+
+Special thanks to EmailJS for providing a simple and efficient solution for the contact form functionality
