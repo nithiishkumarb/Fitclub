@@ -1,4 +1,4 @@
-![Screenshot 2024-04-22 153758](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/f2c6001b-a8f6-4341-88e6-434fcf33b5a6)# FitnessFlow
+# FitnessFlow
 
 FitnessFlow is a responsive static website for a gym membership service built with React.js. It provides comprehensive information about the gym, its programs, benefits, reasons to join, and testimonials from satisfied customers. The website also includes a contact form powered by EmailJS for users to inquire about joining.
 
@@ -41,7 +41,7 @@ Choose from our flexible membership plans designed to suit your lifestyle and fi
 
 ### Desktop View
 
-![Home].[Screenshot 2024-04-22 153721](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/912141b2-6c49-4e3c-bc57-750a04ba66a2)
+![Home][Screenshot 2024-04-22 153721](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/912141b2-6c49-4e3c-bc57-750a04ba66a2)
 
 ![Programs].[Screenshot 2024-04-22 153734](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/23a17083-ab38-4d7c-87b1-75ecc0538e6e)
 
