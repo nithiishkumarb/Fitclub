@@ -43,14 +43,15 @@ Choose from our flexible membership plans designed to suit your lifestyle and fi
 
 ![Screenshot 2024-04-22 153721](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/912141b2-6c49-4e3c-bc57-750a04ba66a2)
 
-![Programs].[Screenshot 2024-04-22 153734](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/23a17083-ab38-4d7c-87b1-75ecc0538e6e)
+![Screenshot 2024-04-22 153734](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/23a17083-ab38-4d7c-87b1-75ecc0538e6e)
 
-![Why Us].[Screenshot 2024-04-22 153743](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/e6587379-72e6-4a8b-9a42-beec0657b2fe)
+![Screenshot 2024-04-22 153743](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/e6587379-72e6-4a8b-9a42-beec0657b2fe)
 
-![Testimonials].[Screenshot 2024-04-22 153811](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/eca04151-fc1b-4d66-88d7-c473f8a790e8)
+![Screenshot 2024-04-22 153758](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/1b96163e-402f-4be8-afdd-66b40416d689)
 
-![Contact Form].[Screenshot 2024-04-22 153827](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/cd48a9f4-1efb-4747-878c-02aa4016a51e)
-)
+![Screenshot 2024-04-22 153811](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/eca04151-fc1b-4d66-88d7-c473f8a790e8)
+
+![Screenshot 2024-04-22 153827](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/cd48a9f4-1efb-4747-878c-02aa4016a51e)
 
 ### Mobile View
 ![Home](screenshots/mobile-home.png)
@@ -68,6 +69,7 @@ To run the website locally, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/fitness-flow.git```
+   
 2. **Navigate to the project directory:**
 
    ``cd fitness-flow``
