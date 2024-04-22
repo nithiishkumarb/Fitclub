@@ -6,7 +6,7 @@ import image4 from "../../assets/image4.png"
 import nb from "../../assets/nb.png"
 import adidas from "../../assets/adidas.png"
 import nick from "../../assets/nike.png"
-import tick from "../../assets/tick.png"
+import whiteTick from "../../assets/whiteTick.png"
 const Reasons = () => {
   return (
     <div className="Reasons">
@@ -24,19 +24,19 @@ const Reasons = () => {
           </div>
           <div className="details-r">
             <div>
-              <img src={tick} alt=""></img>
+              <img src={whiteTick} alt=""></img>
               <span>FREE PROGRAM FOR NEW MEMBER</span>
             </div>
             <div>
-              <img src={tick} alt=""></img>
+              <img src={whiteTick} alt=""></img>
               <span>OVER 160+ EXPERTS COACHS</span>
             </div>
             <div>
-              <img src={tick} alt=""></img>
+              <img src={whiteTick} alt=""></img>
               <span>TRAIN AND FASTER THAN BEFORE</span>
             </div>
             <div>
-              <img src={tick} alt=""></img>
+              <img src={whiteTick} alt=""></img>
               <span>RELIABLE PARTNERS</span>
             </div>
           </div>

@@ -3,7 +3,7 @@ import "./footer.css"
 import Github from "../../assets/github.png"
 import Instagram from "../../assets/instagram.png"
 import Linkedin from "../../assets/linkedin.png"
-import Logo from "../../assets/logo.png"
+import FitnessFlowlogo from "../../assets/FitnessFlowlogo.png"
 const Footer = () => {
   return (
     <div className='footer-container'>
@@ -15,7 +15,7 @@ const Footer = () => {
                 <img src={Linkedin} alt='linkedin'/>
             </div>
             <div className='logo-f'>
-                <img src={Logo} alt="Logo"/>
+                <img src={FitnessFlowlogo} alt="Logo"/>
             </div>
         </div>
         <div className='blur footer-blur-1'></div>

@@ -11,6 +11,8 @@ const Join = () => {
             })
             .then(
             () => {
+                window.alert("Successfully mail sent")
+                window.location.reload();
                 console.log('SUCCESS!');
             },
             (error) => {
@@ -34,7 +36,7 @@ const Join = () => {
         <div className='right-j'>
             <form  ref={form} onSubmit={sendEmail} className='email-container'>
                 <input type="email" name="user_email" placeholder="Enter your Email address"></input>
-                <button className='btn btn-j' style={{backgroundColor:"orange"}}>Join Now</button>
+                <button className='btn btn-j' style={{backgroundColor:"#f41550"}}>Join Now</button>
             </form>
         </div>
     </div>

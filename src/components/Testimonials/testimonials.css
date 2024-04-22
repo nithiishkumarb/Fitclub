@@ -12,7 +12,7 @@
     color:white;
 }
 .left-t>:nth-child(1){
-    color:var(--orange);
+    color:var(--pink);
     font-weight:bold;
 }
 .left-t>:nth-child(2),.left-t>:nth-child(3){
@@ -41,7 +41,7 @@
     position:absolute;
     width:17rem;
     height:20rem;
-    border:2px solid orange;
+    border:2px solid #f41550;
     background-color: transparent;
     right:9rem;
     top:0.9rem;
@@ -50,7 +50,7 @@
     position:absolute;
     width:17rem;
     height:20rem;
-    background-color: var(--orange);
+    background-color: var(--pink);
     right:7rem;
     top:3rem;
 }

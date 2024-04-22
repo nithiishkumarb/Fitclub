@@ -28,7 +28,7 @@
 }
 .the-best-ads>div{
     position:absolute;
-    background-color: var(--orange);
+    background-color: var(--pink);
     width:5.4rem;
     height:80%;
     left:8px;
@@ -75,19 +75,19 @@
 }
 .hero-buttons>:nth-child(1){
     color:white;
-    background-color: var(--orange);
+    background-color: var(--pink);
     width:8rem
 }
 .hero-buttons>:nth-child(2){
     color:white;
     background-color: transparent;
     width:8rem;
-    border: 2px solid var(--orange);
+    border: 2px solid var(--pink);
 }
 .right-h{
     flex:1;
     position:relative;
-    background-color: var(--orange);
+    background-color: var(--pink);
 }
 .right-h>.btn{
     position: absolute;
@@ -129,6 +129,7 @@
     top:4rem;
     z-index: -1;
     width:15rem;
+    fill:aqua;
 }
 .calories{
     display:flex;

@@ -28,7 +28,7 @@
     justify-content: space-between;
 }
 .category:hover{
-    background-color: var(--orange);
+    background-color: var(--pink);
     cursor: pointer;
 }
 .category>:nth-child(1){

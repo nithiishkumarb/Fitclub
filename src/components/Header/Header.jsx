@@ -1,5 +1,5 @@
 import {useState} from 'react'
-import Logo from "../../assets/logo.png"
+import FitnessFlow from "../../assets/FitnessFlowlogo.png"
 import Bars from "../../assets/bars.png"
 import {Link} from "react-scroll"
 import "./Header.css"
@@ -8,7 +8,7 @@ const Header = () => {
   const [menu,setMenu]=useState(false)
   return (
     <div className='Header'>
-      <img className="logo" src={Logo} alt="Logo"
+      <img className="logo" src={FitnessFlow} alt="Logo"
       />
       {(menu===false && mobile===true)? (
         <img src={Bars} alt="bar" 
