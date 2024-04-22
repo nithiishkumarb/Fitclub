@@ -41,6 +41,7 @@ Choose from our flexible membership plans designed to suit your lifestyle and fi
 
 ### Desktop View
 
+<div align="center">
 #### Home
 ![Screenshot 2024-04-22 153721](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/912141b2-6c49-4e3c-bc57-750a04ba66a2)
 
@@ -86,6 +87,8 @@ Choose from our flexible membership plans designed to suit your lifestyle and fi
 #### Contact
 
 ![Screenshot 2024-04-22 154109](https://github.com/nithiishkumarb/Fitness-Flow/assets/134282957/e550b0c2-ce0e-4066-8ad8-6dcd8ed9cc85)
+
+</div>
 
 ## Getting Started
 
